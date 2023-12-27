@@ -9,4 +9,5 @@ blog({
   links: [
   { title: "GitHub", url: "https://github.com/yeahnahabsolutely" },
   ],
+  favicon: "favicon.ico"
 });
